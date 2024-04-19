@@ -1,0 +1,13 @@
+# ninja log v5
+23	321	7350380530639715	CMakeFiles/cpp_class_w8_in.dir/src/main2.cpp.obj	513ef0cf6c6fc507
+1	1232	7350380539782587	CMakeFiles/cpp_class_w8_in.dir/main.cpp.obj	1cdde5df86132446
+1579	2072	7351318265150310	cpp_class_w8_1.exe	5de1d801117d83a4
+3	516	7350392425627802	CMakeFiles/cpp_class_w8_in.dir/src/main1.cpp.obj	cbc5b0cff83897cd
+5	634	7350423523762697	CMakeFiles/cpp_class_w8_2.dir/src/main2.cpp.obj	4b25688f6a4bd05
+516	684	7350392427239979	cpp_class_w8_in.exe	b4301f5557e87765
+6	1579	7351318260492793	CMakeFiles/cpp_class_w8_1.dir/src/main1.cpp.obj	8317a7a3fe139ff2
+634	790	7350423525279794	cpp_class_w8_2.exe	3ce9c0b8c3fae60b
+0	473	7351366536720020	CMakeFiles/cpp_class_w8_1_2.dir/src/main1_2.cpp.obj	f27220ee031a26a5
+497	634	7351366538314811	cpp_class_w8_1_2.exe	778f4132204fea4
+3	459	7351368070068521	CMakeFiles/cpp_class_w8_1_2.dir/src/main1_2.cpp.obj	f27220ee031a26a5
+459	593	7351368071337543	cpp_class_w8_1_2.exe	778f4132204fea4

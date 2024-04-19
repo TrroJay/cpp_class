@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_class_w8_in",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_class_w8_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_class_w8_1-Debug-76f965f13e09d6f9b927.json",
+					"name" : "cpp_class_w8_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_class_w8_1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_class_w8_1_2-Debug-4b2adca643f18a7b38a0.json",
+					"name" : "cpp_class_w8_1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_class_w8_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_class_w8_2-Debug-88d443dad9f48d319438.json",
+					"name" : "cpp_class_w8_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/NJUer/Code/toolbox_clion/code/cpp_class_w8_in/cmake-build-debug",
+		"source" : "E:/NJUer/Code/toolbox_clion/code/cpp_class_w8_in"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

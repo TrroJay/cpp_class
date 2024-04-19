@@ -1,0 +1,6 @@
+# ninja log v5
+303	426	7342945024190954	cpp_class_w6_off.exe	78b643b9edd47b6c
+2	264	7343723368671944	CMakeFiles/cpp_class_w6_2.dir/src/MyQueue.cpp.obj	d4395f24bf7ec56e
+1	106	7349787955351309	build.ninja	7b2f132496fb10b1
+2	264	7343725588959756	CMakeFiles/cpp_class_w6_2.dir/src/MyStack.cpp.obj	604ca041d7316ea8
+264	351	7343725589815953	cpp_class_w6_2.exe	2d2e570dfbacf5f3
